@@ -52,7 +52,6 @@
 
 ### Studying in this moment:
 ![JavaScript](https://img.shields.io/badge/-javascrip-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=whit)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
