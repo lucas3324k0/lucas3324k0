@@ -52,9 +52,7 @@
 
 ### Studying in this moment:
 ![JavaScript](https://img.shields.io/badge/-javascrip-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-### Studyng in this moment:
-![React](https://img.shields.io/badge/-javascrip-0D1117?style=for-the-badge&logo=React&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=React&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
