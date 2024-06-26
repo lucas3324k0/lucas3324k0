@@ -14,7 +14,9 @@
 </div>
 <br />
 
+<div align="center" >
 ![Novo Gráfico de Atividade do GitHub](https://ssr-contributions-svg.vercel.app/_/lucas3324k0?chart=circle&gap=0.8&scale=3&animation=fade&animation_duration=2&animation_delay=0.1&bg_color=1A
+</div>
 
 <br />
 <![Novo Gráfico de Atividade do GitHub](https://ssr-contributions-svg.vercel.app/_/lucas3324k0?chart=circle&gap=0.8&scale=3&animation=fade&animation_duration=2&animation_delay=0.1&bg_color=1Ap align="center">
