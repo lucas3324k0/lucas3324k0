@@ -20,7 +20,7 @@
 - 🎓 Cursando **Técnico em Desenvolvimento de Sistemas** no **Senac (EAD)**
 - 🎯 Meu foco é me tornar **desenvolvedor back-end Java**
 - 📚 Estudo todos os dias e registro tudo aqui, com um commit por tópico estudado
-- 🔁 Já tive contato com HTML, CSS, JavaScript, SQL, Python e React, e agora estou aprofundando em Java e Spring Boot
+- 🔁 Já tive contato com HTML, CSS, JavaScript, SQL, Python, e agora estou aprofundando em Java e Spring Boot
 
 ## 🛠️ Tecnologias
 
@@ -33,7 +33,7 @@
 **Já usei**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,sqlite,python,react&theme=dark" alt="HTML, CSS, JavaScript, SQLite, Python, React"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,sqlite,python,react&theme=dark" alt="HTML, CSS, JavaScript, SQLite, Python"/>
 </p>
 
 **Ferramentas**
