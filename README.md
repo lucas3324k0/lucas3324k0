@@ -9,8 +9,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/foco-back--end%20Java-00bfbf?style=for-the-badge&logo=openjdk&logoColor=white" alt="Foco: back-end Java"/>
   <img src="https://img.shields.io/badge/estudando-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Estudando Spring Boot"/>
-  <img src="https://img.shields.io/badge/buscando-est%C3%A1gio%20%2F%20j%C3%BAnior-0d1117?style=for-the-badge" alt="Buscando estágio ou vaga júnior"/>
-</p>
 
 ---
 
